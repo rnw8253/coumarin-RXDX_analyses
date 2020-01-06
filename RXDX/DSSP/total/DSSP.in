@@ -1,0 +1,23 @@
+parm ../stripped/RADA8.stripped.prmtop
+trajin ../stripped/RADA8.run00.stripped.dcd
+trajin ../stripped/RADA8.run01.stripped.dcd
+trajin ../stripped/RADA8.run02.stripped.dcd
+trajin ../stripped/RADA8.run03.stripped.dcd
+trajin ../stripped/RADA8.run04.stripped.dcd
+trajin ../stripped/RADA8.run05.stripped.dcd
+trajin ../stripped/RADA8.run06.stripped.dcd
+trajin ../stripped/RADA8.run07.stripped.dcd
+trajin ../stripped/RADA8.run08.stripped.dcd
+trajin ../stripped/RADA8.run09.stripped.dcd
+trajin ../stripped/RADA8.run10.stripped.dcd
+trajin ../stripped/RADA8.run11.stripped.dcd
+trajin ../stripped/RADA8.run12.stripped.dcd
+trajin ../stripped/RADA8.run13.stripped.dcd
+trajin ../stripped/RADA8.run14.stripped.dcd
+trajin ../stripped/RADA8.run15.stripped.dcd
+trajin ../stripped/RADA8.run16.stripped.dcd
+trajin ../stripped/RADA8.run17.stripped.dcd
+trajin ../stripped/RADA8.run18.stripped.dcd
+trajin ../stripped/RADA8.run19.stripped.dcd
+secstruct out DSSP.gnu jpeg sumout DSSP.sum.dat totalout DSSP.dat 
+go
